@@ -27,6 +27,13 @@
     <OraganizatorID>0</OraganizatorID>
     <GroupID>0</GroupID>
   </Users>
+    <UserID>3</UserID>
+    <FullName>Ngo Hoang An</FullName>
+    <Mobile>099-999</Mobile>
+    <Phone>0989098</Phone>
+    <Email>hoangan@gmail.com</Email>
+    <GroupID>0</GroupID>
+  </Users>
   <Groups>
     <GroupID>0</GroupID>
     <GroupName>Cuc HQBP</GroupName>
