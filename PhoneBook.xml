@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<PhoneBook xmlns="http://tempuri.org/PhoneBook.xsd">
+  <Users>
+    <UserID>0</UserID>
+    <FullName>Le Thai Giang</FullName>
+    <Mobile>0923809800</Mobile>
+    <Phone>098989899</Phone>
+    <Email>gianglt@customs.gov.vn</Email>
+    <OraganizatorID>0</OraganizatorID>
+    <GroupID>1</GroupID>
+  </Users>
+  <Users>
+    <UserID>1</UserID>
+    <FullName>Le Hoang Giang</FullName>
+    <Mobile>0989879980</Mobile>
+    <Phone>0989879879</Phone>
+    <Email>gianglh@customs.gov.vn</Email>
+    <OraganizatorID>0</OraganizatorID>
+    <GroupID>0</GroupID>
+  </Users>
+  <Users>
+    <UserID>2</UserID>
+    <FullName>Hoang Dinh The</FullName>
+    <Mobile>0987978989</Mobile>
+    <Phone>097987898</Phone>
+    <Email>thehd@customs.gov.vn</Email>
+    <OraganizatorID>0</OraganizatorID>
+    <GroupID>0</GroupID>
+  </Users>
+  <Groups>
+    <GroupID>0</GroupID>
+    <GroupName>Cuc HQBP</GroupName>
+  </Groups>
+  <Groups>
+    <GroupID>1</GroupID>
+    <GroupName>Tong Cuc HQ</GroupName>
+  </Groups>
+  <Groups>
+    <GroupID>2</GroupID>
+    <GroupName>Cuc CNTT &amp; Thong ke</GroupName>
+  </Groups>
+</PhoneBook>
